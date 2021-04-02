@@ -1,0 +1,11 @@
+INSERT INTO training.users (id, typeuser, username, lastname) VALUES (12632978, 'Cliente', 'carlos', 'perez');
+INSERT INTO training.users (id, typeuser, username, lastname) VALUES (12652378, 'Cliente', 'juan', 'pedraza');
+INSERT INTO training.users (id, typeuser, username, lastname) VALUES (12655478, 'Cliente', 'danilo', 'melo');
+INSERT INTO training.users (id, typeuser, username, lastname) VALUES (12656577, 'Cliente', 'melani', 'escobar');
+INSERT INTO training.users (id, typeuser, username, lastname) VALUES (12656578, 'Cliente', 'camila', 'angel');
+INSERT INTO training.users (id, typeuser, username, lastname) VALUES (12658978, 'Cliente', 'Maria', 'Castro');
+INSERT INTO training.users (id, typeuser, username, lastname) VALUES (12659878, 'Cliente', 'stiven', 'camelo');
+INSERT INTO training.users (id, typeuser, username, lastname) VALUES (12685978, 'Cliente', 'diego', 'castiblanco');
+INSERT INTO training.users (id, typeuser, username, lastname) VALUES (12695978, 'Cliente', 'jose', 'diaz');
+INSERT INTO training.users (id, typeuser, username, lastname) VALUES (12788978, 'Cliente', 'pedro', 'gonzalez');
+INSERT INTO training.users (id, typeuser, username, lastname) VALUES (75896312, 'Cliente', 'Pepa', 'pola');

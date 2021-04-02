@@ -1,0 +1,10 @@
+INSERT INTO training.books (id, bookname, author, category, cuantity_available, reserved_amount, rate) VALUES (1, 'Lady Masacre', 'Mario Mendoza', 'Investigación', 5, 1, 5000);
+INSERT INTO training.books (id, bookname, author, category, cuantity_available, reserved_amount, rate) VALUES (2, 'laquelarre', 'carlos acevedo', 'romance', 5, 1, 8000);
+INSERT INTO training.books (id, bookname, author, category, cuantity_available, reserved_amount, rate) VALUES (3, 'el viejo y el mar', 'juan gabriel garcia marquez', 'Investigación', 5, 1, 10000);
+INSERT INTO training.books (id, bookname, author, category, cuantity_available, reserved_amount, rate) VALUES (4, 'los inocentes', 'luisa gavilan', 'romance', 8, 1, 20000);
+INSERT INTO training.books (id, bookname, author, category, cuantity_available, reserved_amount, rate) VALUES (5, 'el ultimo en la fila', 'ricardo larvan', 'aventura', 5, 1, 35000);
+INSERT INTO training.books (id, bookname, author, category, cuantity_available, reserved_amount, rate) VALUES (6, 'cumpliendo un sueño', 'danilo gomez', 'Investigación', 5, 1, 85000);
+INSERT INTO training.books (id, bookname, author, category, cuantity_available, reserved_amount, rate) VALUES (7, 'hola quetal', 'juan vitalora', 'aventura', 5, 1, 45000);
+INSERT INTO training.books (id, bookname, author, category, cuantity_available, reserved_amount, rate) VALUES (8, 'dimelo todo ', 'diego serati', 'romance', 5, 1, 25000);
+INSERT INTO training.books (id, bookname, author, category, cuantity_available, reserved_amount, rate) VALUES (9, 'eliminados', 'Mario Mendoza', 'Investigación', 5, 1, 15000);
+INSERT INTO training.books (id, bookname, author, category, cuantity_available, reserved_amount, rate) VALUES (10, 'dimelo ya', 'carlos veloza', 'aventura', 5, 1, 55000);
