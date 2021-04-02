@@ -1,0 +1,11 @@
+INSERT INTO training.reserve (id, return_date, cuantity_books, id_user, id_book) VALUES (1, '2021-04-09', 1, 12658978, 1);
+INSERT INTO training.reserve (id, return_date, cuantity_books, id_user, id_book) VALUES (2, '2021-05-11', 1, 12788978, 2);
+INSERT INTO training.reserve (id, return_date, cuantity_books, id_user, id_book) VALUES (3, '2021-04-23', 1, 12632978, 3);
+INSERT INTO training.reserve (id, return_date, cuantity_books, id_user, id_book) VALUES (4, '2021-06-14', 1, 12652378, 4);
+INSERT INTO training.reserve (id, return_date, cuantity_books, id_user, id_book) VALUES (5, '2021-08-25', 1, 12656578, 5);
+INSERT INTO training.reserve (id, return_date, cuantity_books, id_user, id_book) VALUES (6, '2021-07-22', 1, 12685978, 6);
+INSERT INTO training.reserve (id, return_date, cuantity_books, id_user, id_book) VALUES (7, '2021-08-23', 1, 12695978, 7);
+INSERT INTO training.reserve (id, return_date, cuantity_books, id_user, id_book) VALUES (8, '2021-06-20', 1, 12656578, 8);
+INSERT INTO training.reserve (id, return_date, cuantity_books, id_user, id_book) VALUES (9, '2021-05-02', 1, 12655478, 9);
+INSERT INTO training.reserve (id, return_date, cuantity_books, id_user, id_book) VALUES (10, '2021-05-09', 1, 12659878, 10);
+INSERT INTO training.reserve (id, return_date, cuantity_books, id_user, id_book) VALUES (11, '2021-04-08', 1, 12652378, 1);
