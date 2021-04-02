@@ -16,8 +16,8 @@ You will need the following things properly installed on your computer.
 We use [Gradle](http://www.gradle.org), a cross-platform build automation tool that help with our full development flow.
 If you prefer [install Gradle](http://www.gradle.org/installation) or use a [Gradle wrapper](http://www.gradle.org/docs/current/userguide/gradle_wrapper.html) inside this project.
 
-* `git clone git@github.com:avaldigitallabs/devops-pipeline-java-ms-ecs-example.git` this repository
-* change into the new directory `cd devops-pipeline-java-ms-ecs-example`
+* `git clone https://github.com/Steban-Osorio/Library.git` this repository
+* change into the new directory `cd Library`
 
 ## Build project
 
