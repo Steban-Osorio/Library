@@ -13,7 +13,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-usaremos https://www.jetbrains.com/es-es/idea/  para el desarrollo del programa, https://mariadb.org/ para complementar la base de datos 
+usaremos [intellij idea ]  para el desarrollo del programa,[mariadb] para complementar la base de datos 
 
 * `git clone https://github.com/Steban-Osorio/Library.git` this repository
 * change into the new directory `cd Library`
