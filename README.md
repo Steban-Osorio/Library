@@ -8,7 +8,7 @@
 You will need the following things properly installed on your computer.
 
 * [Git](http://git-scm.com/)
-* [Gradle](https://gradle.org)
+* [intellij idea ](https://www.jetbrains.com/es-es/idea/)
 * [Maven](https://maven.apache.org/)
 
 ## Installation
