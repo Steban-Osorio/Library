@@ -9,7 +9,7 @@ You will need the following things properly installed on your computer.
 
 * [Git](http://git-scm.com/)
 * [intellij idea ](https://www.jetbrains.com/es-es/idea/)
-* [Maven](https://maven.apache.org/)
+* [mariadb](https://mariadb.org/)
 
 ## Installation
 
