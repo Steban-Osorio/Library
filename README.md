@@ -18,27 +18,6 @@ usaremos [intellij idea ]  para el desarrollo del programa,[mariadb] para comple
 * `git clone https://github.com/Steban-Osorio/Library.git` this repository
 * change into the new directory `cd Library`
 
-## Build project
 
-```bash
-./gradlew clean build
-```
 
-## Run tests
-
-```bash
-./gradlew clean test
-```
-
-## Contributing
-
-If you find this repo useful here's how you can help:
-
-1. Send a Merge Request with your awesome new features and bug fixes
-2. Wait for a Coronita :beer: you deserve it.
-
-## Further Reading / Useful Links
-
-* [Gradle](https://gradle.org/guides/)
-* [Maven](https://maven.apache.org/developers/index.html)
 
